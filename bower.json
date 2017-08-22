@@ -1,0 +1,18 @@
+{
+  "name": "Polymer project",
+  "homepage": "https://github.com/metherton/polymer-project",
+  "authors": [
+    "metherton <martinetherton63@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.2"
+  }
+}
