@@ -1,0 +1,10 @@
+{
+  "name": "PolymerProject",
+  "version": "1.0.0",
+  "author": "Martin",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
+}
